@@ -1,6 +1,7 @@
+'''Equipo
+Sorino Montiel Byan Andres
+Rojas Zepeda Luis Eduardo'''
 from http.server import HTTPServer, BaseHTTPRequestHandler
-from urllib import request, parse
-import logging
 import urllib.parse
 import io
 import os

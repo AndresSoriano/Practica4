@@ -1,3 +1,6 @@
+'''Equipo
+Sorino Montiel Byan Andres
+Rojas Zepeda Luis Eduardo'''
 import argparse
 import http.client
 import urllib.parse
